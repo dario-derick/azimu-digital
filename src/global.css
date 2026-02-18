@@ -1,0 +1,64 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Global styles */
+body {
+  font-family: 'Trebuchet MS', sans-serif;
+  background-color: #fff;
+}
+:root {
+
+  /* =========================
+     BACKGROUND COLORS
+  ========================== */
+  --bg-page: #FFFFFF;
+  --bg-section-primary: #1C2B39;
+  --bg-section-alt: #f5f5f5;
+
+  /* =========================
+     TEXT COLORS
+  ========================== */
+  --text-heading: #1C2B39;
+  --text-body: #333333;
+  --text-inverse: #FFFFFF;
+  --text-muted: #7a7a7a;
+
+  /* =========================
+     BUTTON COLORS
+  ========================== */
+  --btn-primary-bg: #A66F1C;
+  --btn-primary-hover: #8C5E17;
+  --btn-primary-text: #FFFFFF;
+
+  --btn-secondary-bg: #1C2B39;
+  --btn-secondary-hover: #16222D;
+  --btn-secondary-text: #FFFFFF;
+
+  --btn-outline-border: #A66F1C;
+  --btn-outline-text: #A66F1C;
+  --btn-outline-hover-bg: #A66F1C;
+  --btn-outline-hover-text: #FFFFFF;
+
+  /* =========================
+     NAVIGATION
+  ========================== */
+  --nav-bg: #1C2B39;
+  --nav-text: #FFFFFF;
+  --nav-hover: #A66F1C;
+
+  /* =========================
+     BORDERS & DIVIDERS
+  ========================== */
+  --border-default: #E0E0E0;
+  --border-strong: #C0C0C0;
+
+  /* =========================
+     CARDS
+  ========================== */
+  --card-bg: #FFFFFF;
+  --card-shadow: 0 6px 15px rgba(0,0,0,0.08);
+}
