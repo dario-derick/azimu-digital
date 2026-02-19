@@ -75,7 +75,7 @@
 
   <!-- WhatsApp Float -->
   <a
-    href="https://wa.me/254706099505?text=Hello%20I%20need%20help"
+    href="https://wa.me/254748800385?text=Hello%20I%20need%20help"
     class="whatsapp-float"
     target="_blank"
     aria-label="WhatsApp Chat"
