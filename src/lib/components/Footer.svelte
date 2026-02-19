@@ -34,7 +34,7 @@
 
       <!-- Ministries -->
       <div class="footer-col">
-        <h3>Ministries</h3>
+        <h3>Our Solutions</h3>
         <ul class="footer-links">
           <li><a href="#home">Web Development</a></li>
           <li><a href="#about">Content Management</a></li>
